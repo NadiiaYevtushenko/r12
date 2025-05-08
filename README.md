@@ -54,7 +54,7 @@ tests/
 ```bash
 git clone https://github.com/your-username/react-async-counter.git
 cd react-async-counter
-npm install
+yarn install
 ```
 
 ---
@@ -64,7 +64,7 @@ npm install
 ### Development Server
 
 ```bash
-npm run dev
+yarn dev
 ```
 
 ---
@@ -73,13 +73,13 @@ npm run dev
 
 ```bash
 # Run all tests
-npm test
+yarn test
 
 # Run tests with interactive UI (Vitest)
-npm run test:ui
+yarn test:ui
 
 # Run tests with code coverage
-npm run coverage
+yarn coverage
 ```
 
 ---
@@ -101,4 +101,4 @@ npm run coverage
 
 ## 🌍 Deployment
 
-- [Vercel]( )
+- [Vercel](https://r12-nadiias-projects-dc6d9292.vercel.app/ )
