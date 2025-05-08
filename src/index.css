@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Times New Roman", serif;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  background-color: #3675da;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: 15px 28px;
+  padding: 5px 10px;
+}
+
+button {
+  display: inline-block;
+  margin-left: 5px;
+  padding: 5px 25px;
+}
+
+.button:hover {
+  background-color: #add4f3;
+}
